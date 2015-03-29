@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\sMain_Menu</sound>
+    <sound>sound\sound2</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
@@ -106,7 +107,7 @@
       <object>objects\oTextBox</object>
     </objects>
     <object>objects\oDocument</object>
-    <object>objects\oMusic_main_menu</object>
+    <object>objects\oMusic</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mapMainMenu</room>
