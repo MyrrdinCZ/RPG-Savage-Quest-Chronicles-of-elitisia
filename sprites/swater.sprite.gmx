@@ -20,6 +20,6 @@
   <width>576</width>
   <height>386</height>
   <frames>
-    <frame index="0">images\swater_0.png</frame>
+    <frame index="0">images\sWater_0.png</frame>
   </frames>
 </sprite>
