@@ -21,6 +21,7 @@
     <sprite>sprites\sprite10</sprite>
     <sprite>sprites\sprite11</sprite>
     <sprite>sprites\sprite12</sprite>
+    <sprite>sprites\sDocument</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_grass</background>
@@ -98,6 +99,10 @@
     <object>objects\oOptions</object>
     <object>objects\oCredits</object>
     <object>objects\oEndGame</object>
+    <objects name="TextBox">
+      <object>objects\oTextBox</object>
+    </objects>
+    <object>objects\oDocument</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mapMainMenu</room>
