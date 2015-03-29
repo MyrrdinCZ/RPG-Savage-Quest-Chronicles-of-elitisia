@@ -3,8 +3,8 @@
   <caption></caption>
   <width>640</width>
   <height>480</height>
-  <vsnap>8</vsnap>
-  <hsnap>8</hsnap>
+  <vsnap>1</vsnap>
+  <hsnap>1</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
@@ -52,12 +52,10 @@
   </views>
   <instances>
     <instance objName="oMainMenu" x="320" y="80" name="inst_0D3FCF32" locked="0" code="" scaleX="0.964573264122009" scaleY="0.899999976158142" colour="4294967295" rotation="0"/>
-    <instance objName="oNewGame" x="136" y="240" name="inst_52E6AA6A" locked="0" code="" scaleX="0.800000011920929" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
-    <instance objName="oOptions" x="112" y="304" name="inst_04F2E37B" locked="0" code="" scaleX="0.800000011920929" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
-    <instance objName="oCredits" x="104" y="368" name="inst_13B9B34C" locked="0" code="" scaleX="0.800000011920929" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
-    <instance objName="oEndGame" x="128" y="440" name="inst_E3E5BCF4" locked="0" code="" scaleX="0.800000011920929" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
     <instance objName="oMusic" x="616" y="464" name="inst_C054621B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oGeneral" x="592" y="464" name="inst_319306E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oLanguage" x="120" y="192" name="inst_E42C3D6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oCzech" x="240" y="192" name="inst_F920A40C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oEnglish" x="341" y="194" name="inst_BEA0DE56" locked="0" code="" scaleX="1.03999996185303" scaleY="1.19000005722046" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

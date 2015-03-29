@@ -10,22 +10,25 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
-    <sprites name="Main Menu">
-      <sprite>sprites\new_game_disabled</sprite>
-      <sprite>sprites\new_game_hovered</sprite>
-      <sprite>sprites\new_game_plain</sprite>
-      <sprite>sprites\new_game_pressed</sprite>
-      <sprite>sprites\sM</sprite>
-    </sprites>
     <sprite>sprites\sPlayer</sprite>
     <sprite>sprites\sTree</sprite>
-    <sprite>sprites\sprite8</sprite>
-    <sprite>sprites\sNewGame</sprite>
-    <sprite>sprites\sprite10</sprite>
-    <sprite>sprites\sprite11</sprite>
-    <sprite>sprites\sprite12</sprite>
     <sprite>sprites\sDocument</sprite>
     <sprite>sprites\sWater</sprite>
+    <sprites name="lang">
+      <sprite>sprites\slang</sprite>
+      <sprite>sprites\sCZ</sprite>
+      <sprite>sprites\sEN</sprite>
+      <sprite>sprites\sLanguage</sprite>
+      <sprite>sprites\sCzech</sprite>
+      <sprite>sprites\sEnglish</sprite>
+    </sprites>
+    <sprites name="MainMenu">
+      <sprite>sprites\sprite12</sprite>
+      <sprite>sprites\sprite11</sprite>
+      <sprite>sprites\sNewGame</sprite>
+      <sprite>sprites\sprite10</sprite>
+      <sprite>sprites\sprite8</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_grass</background>
@@ -91,12 +94,12 @@
       <script>scripts\sga_Play3DFX.gml</script>
       <script>scripts\sga_PlayFX.gml</script>
     </scripts>
+    <script>scripts\script_language.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\tree</object>
     <objects name="Main Menu">
-      <object>objects\new_game</object>
       <object>objects\oMainMenu</object>
     </objects>
     <object>objects\oNewGame</object>
@@ -108,12 +111,21 @@
     </objects>
     <object>objects\oDocument</object>
     <object>objects\oMusic</object>
+    <objects name="Language">
+      <object>objects\oEnglish</object>
+      <object>objects\oCzech</object>
+      <object>objects\oLanguage</object>
+      <object>objects\oEN</object>
+      <object>objects\oCZ</object>
+      <object>objects\oLang</object>
+    </objects>
+    <object>objects\oGeneral</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mapMainMenu</room>
     <room>rooms\room0</room>
+    <room>rooms\map_Options</room>
     <room>rooms\mapCredits</room>
-    <room>rooms\mapOptions</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
