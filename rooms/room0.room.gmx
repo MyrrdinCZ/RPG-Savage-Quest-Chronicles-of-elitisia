@@ -56,13 +56,11 @@
     <instance objName="tree" x="32" y="272" name="inst_33425D64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="32" y="192" name="inst_242B5C82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="32" y="112" name="inst_A4391CFA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="32" y="32" name="inst_AED49192" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="80" y="32" name="inst_ED06E988" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="128" y="32" name="inst_F72A8F38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="176" y="32" name="inst_1DF5CA16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="224" y="32" name="inst_E2AB882B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDocument" x="432" y="304" name="inst_8BE444E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_player" x="144" y="192" name="inst_9CC7ACD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="tree" x="608" y="112" name="inst_E241EFC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="272" y="32" name="inst_C00214AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="320" y="32" name="inst_D55507BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="tree" x="608" y="192" name="inst_F9A06706" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="368" y="32" name="inst_2EF8983C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="416" y="32" name="inst_09EEBFF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="464" y="32" name="inst_94138F0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -71,24 +69,28 @@
     <instance objName="tree" x="608" y="32" name="inst_5DB43D8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="80" y="432" name="inst_0B2C0B70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="128" y="432" name="inst_7B3E2B64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="176" y="432" name="inst_C967DC20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="224" y="432" name="inst_AD68D9F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="272" y="432" name="inst_7B053808" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="320" y="432" name="inst_78458C16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="368" y="432" name="inst_C3CF61E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="416" y="432" name="inst_CE12AB9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="464" y="432" name="inst_19F7C03A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="512" y="432" name="inst_65FF885F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="560" y="432" name="inst_C52E0E94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="608" y="432" name="inst_CB35D006" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="608" y="352" name="inst_9691A67D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="608" y="272" name="inst_FCF9CE81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="608" y="192" name="inst_F9A06706" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="tree" x="608" y="112" name="inst_E241EFC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_player" x="144" y="192" name="inst_9CC7ACD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oDocument" x="432" y="304" name="inst_8BE444E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
-  <tiles/>
+  <tiles>
+    <tile bgName="background3" x="560" y="432" w="32" h="32" xo="64" yo="800" id="10000003" name="inst_FFF259FD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="528" y="432" w="32" h="32" xo="32" yo="800" id="10000004" name="inst_82AB8C95" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="496" y="432" w="32" h="32" xo="0" yo="800" id="10000005" name="inst_46018442" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="496" y="400" w="32" h="32" xo="0" yo="768" id="10000006" name="inst_F420F108" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="496" y="368" w="32" h="32" xo="0" yo="736" id="10000007" name="inst_82E71D51" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="528" y="368" w="32" h="32" xo="32" yo="736" id="10000008" name="inst_52DEB0B4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="560" y="368" w="32" h="32" xo="64" yo="736" id="10000009" name="inst_B5640BB0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="560" y="400" w="32" h="32" xo="64" yo="768" id="10000010" name="inst_FDDA5203" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="528" y="400" w="32" h="32" xo="32" yo="768" id="10000011" name="inst_E1D98BB7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="256" y="192" w="32" h="32" xo="32" yo="0" id="10000012" name="inst_877FCFEF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="224" y="192" w="32" h="32" xo="32" yo="0" id="10000014" name="inst_A6C4612C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="192" y="192" w="32" h="32" xo="32" yo="0" id="10000015" name="inst_EC027E73" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="160" y="192" w="32" h="32" xo="32" yo="0" id="10000016" name="inst_F2C329FF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="128" y="192" w="32" h="32" xo="32" yo="0" id="10000017" name="inst_72EDA953" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="96" y="192" w="32" h="32" xo="32" yo="0" id="10000018" name="inst_EF0B45CA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="288" y="192" w="32" h="32" xo="32" yo="0" id="10000019" name="inst_EDBEBE5D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background3" x="320" y="192" w="32" h="32" xo="32" yo="0" id="10000020" name="inst_6A41DD45" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+  </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>

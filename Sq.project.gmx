@@ -14,14 +14,6 @@
     <sprite>sprites\sTree</sprite>
     <sprite>sprites\sDocument</sprite>
     <sprite>sprites\sWater</sprite>
-    <sprites name="lang">
-      <sprite>sprites\slang</sprite>
-      <sprite>sprites\sCZ</sprite>
-      <sprite>sprites\sEN</sprite>
-      <sprite>sprites\sLanguage</sprite>
-      <sprite>sprites\sCzech</sprite>
-      <sprite>sprites\sEnglish</sprite>
-    </sprites>
     <sprites name="MainMenu">
       <sprite>sprites\sprite12</sprite>
       <sprite>sprites\sprite11</sprite>
@@ -29,11 +21,16 @@
       <sprite>sprites\sprite10</sprite>
       <sprite>sprites\sprite8</sprite>
     </sprites>
+    <sprites name="Město">
+      <sprite>sprites\sTownCastle</sprite>
+    </sprites>
+    <sprite>sprites\wooden_sword_right</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_grass</background>
     <background>background\bg_main_menu</background>
     <background>background\background2</background>
+    <background>background\background3</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -111,15 +108,8 @@
     </objects>
     <object>objects\oDocument</object>
     <object>objects\oMusic</object>
-    <objects name="Language">
-      <object>objects\oEnglish</object>
-      <object>objects\oCzech</object>
-      <object>objects\oLanguage</object>
-      <object>objects\oEN</object>
-      <object>objects\oCZ</object>
-      <object>objects\oLang</object>
-    </objects>
     <object>objects\oGeneral</object>
+    <object>objects\oWoodenSword</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mapMainMenu</room>
